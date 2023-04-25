@@ -56,7 +56,8 @@ export default function Home() {
     setLink(value);
   };
   return (
-    <div>
+    <div className="d-flex flex-column align-items-center">
+      <h1>AskMe Bot</h1>
       <form onSubmit={handleSubmit}>
         <div className="input-group mb-3">
           <input
@@ -65,7 +66,7 @@ export default function Home() {
             value={link}
             onChange={onChange}
             className="form-control"
-            placeholder="Write the youtube link of the video you want to query."
+            placeholder="Write the youtube URL"
           />
           <button
             className="btn btn-outline-secondary"
@@ -78,7 +79,7 @@ export default function Home() {
       </form>
 
       <button
-        className="btn btn-outline-secondary"
+        className="btn btn-outline-secondary m-3 w-50"
         id="button-addon2"
         onClick={handleClick}
       >

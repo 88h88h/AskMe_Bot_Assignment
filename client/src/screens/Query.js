@@ -43,7 +43,7 @@ export default function Query() {
     setQuery(value);
   };
   return (
-    <div>
+    <div className="m-5">
       <form onSubmit={handleSubmit}>
         <div className="input-group mb-3">
           <input
