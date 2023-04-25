@@ -44,6 +44,7 @@ export default function Query() {
   };
   return (
     <div className="m-5">
+      <h1 className="text-center">AskMe Bot</h1>
       <form onSubmit={handleSubmit}>
         <div className="input-group mb-3">
           <input
