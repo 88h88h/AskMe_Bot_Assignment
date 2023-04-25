@@ -30,7 +30,7 @@ docker-compose up -d --build
 
 ## To run the frontend and backend together
 
-Ensure that you’re in the frontend folder and then write in the Powershell
+Ensure that you’re in the client folder and then write in the Powershell
 `yarn dev`
 
 ## Using the application
