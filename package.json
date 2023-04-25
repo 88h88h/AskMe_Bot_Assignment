@@ -1,0 +1,22 @@
+{
+  "name": "question-answer-system-backend",
+  "version": "1.0.0",
+  "description": "A program where you can ask questions and receive answers",
+  "main": "server.js",
+  "author": "Harsh Prakash",
+  "license": "MIT",
+  "dependencies": {
+    "chromadb": "^1.4.1",
+    "concurrently": "^8.0.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "langchain": "^0.0.63",
+    "mongodb": "^5.3.0",
+    "mongoose": "^7.0.4",
+    "nodemon": "^2.0.22",
+    "openai": "^3.2.1",
+    "youtube-mp3-downloader": "^0.7.11",
+    "youtube-video-id": "^0.0.3"
+  }
+}
