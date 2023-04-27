@@ -20,7 +20,7 @@ AskMe Bot is an AI Q&A bot that helps in querying any youtube of your choice. It
   `yarn install`
 
 - Install ‘ffmpeg’ from ‘https://ffmpeg.org/’ and add its ‘bin’ folder in the environment variables
-- Install ‘Docker’ from ‘https://docs.docker.com/get-docker/’, open ‘docker desktop,’ and run the command in the backend folder
+- Install ‘Docker’ from ‘https://docs.docker.com/get-docker/’, open ‘docker desktop,’ and run the command in the main folder
 
 ```
 git clone https://github.com/chroma-core/chroma.git
