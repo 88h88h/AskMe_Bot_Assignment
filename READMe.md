@@ -2,7 +2,7 @@
 
 This project was developed as part of an assignment task.
 
-Introduction
+## Introduction
 AskMe Bot is an AI Q&A bot that helps in querying any youtube of your choice. It helps you in getting a better understanding of the youtube video that you want to query. You can ask any question related to the content of the video or even ask for a summary of the whole video.
 
 ## Setup and Installation
